@@ -2,7 +2,7 @@
   "response": {
     "response": {
       "topic": "Bill & Payment",
-      "service": "Wireless Broadband",
+      "service": "Wired Broadband",
       "contactDateTime": "2024-02-01T14:30:00Z",
       "contactType": "Call",
       "status": "Pending",
