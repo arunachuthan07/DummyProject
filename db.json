@@ -1,13 +1,8 @@
 {
   "response": {
-    "response": {
-    "topic": "Bill & Payments",
-    "service": "Wireless Broadband",
-    "contactDateTime": "2024-02-01T14:30:00Z",
-    "contactType": "Call",
-    "status": "Pending",
-    "summary": "Customer has had 5 interactions over the last 45 days. Customer typed \"billing\" in myAT&T and asked about their billing date 2 times over chat. Customer called and virtual assistant helped with billing date and live agent helped with partial credit request.",
-    "outcome": "Bill showing as due even after payment was successful"
+    "result": {
+	"uuid": "5029cc6e-1963-5fc7-2495-5d519218fd4e",
+    "summary": "Customer has had 5 interactions over the last 45 days. Customer typed \"billing\" in myAT&T and asked about their billing date 2 times over chat. Customer called and virtual assistant helped with billing date and live agent helped with partial credit request."
   }
   }
 }
